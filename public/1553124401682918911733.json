@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588094592109",
+    "project_id": "kaiber-ai",
+    "storage_bucket": "kaiber-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588094592109:android:c8847b08726bcb95745b64",
+        "android_client_info": {
+          "package_name": "com.kaiberai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588094592109-gsbgqeofrp0fgn5lisuh1glg9g3hur1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbNT5eI1NsCYmGi5Dwptr7uUoEesmiz7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588094592109-gsbgqeofrp0fgn5lisuh1glg9g3hur1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
